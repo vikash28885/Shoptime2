@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Mon Aug 29 18:06:28 IST 2016
+org.eclipse.jst.j2ee.server\:ShopTimeBackEnd=WEB-INF/lib/ShopTimeBackEnd-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\vishal\\.m2\\repository\\org\\springframework\\spring-web\\4.3.0.RELEASE\\spring-web-4.3.0.RELEASE.jar=WEB-INF/lib/spring-web-4.3.0.RELEASE.jar

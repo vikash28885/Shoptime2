@@ -1,0 +1,13 @@
+com\niit\shoptime\model\UserDetails.class
+com\niit\shoptime\dao\CategoryDAOImpl.class
+com\niit\shoptime\dao\UserDetailsDAO.class
+com\niit\shoptime\model\Category.class
+com\niit\shoptime\dao\CategoryDAO.class
+com\niit\shoptime\config\ApplicationContextConfig.class
+com\niit\shoptime\dao\ProductDAOImpl.class
+com\niit\shoptime\dao\SupplierDAO.class
+com\niit\shoptime\model\Supplier.class
+com\niit\shoptime\dao\ProductDAO.class
+com\niit\shoptime\model\Product.class
+com\niit\shoptime\dao\SupplierDAOImpl.class
+com\niit\shoptime\dao\UserDetailsDAOImpl.class
